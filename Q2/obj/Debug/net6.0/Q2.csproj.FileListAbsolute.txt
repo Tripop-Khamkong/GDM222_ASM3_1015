@@ -1,0 +1,15 @@
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\bin\Debug\net6.0\Q2.exe
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\bin\Debug\net6.0\Q2.deps.json
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\bin\Debug\net6.0\Q2.dll
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\bin\Debug\net6.0\Q2.pdb
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.dll
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\refint\Q2.dll
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.pdb
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+C:\Users\Peak\OneDrive\เดสก์ท็อป\GDM222\gdm222_assignment3_1015\Q2\obj\Debug\net6.0\ref\Q2.dll
